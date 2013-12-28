@@ -3,9 +3,9 @@ Phalcon Windows X64 VC11 DLL
 
 Php Windows binary extension for Phalcon 1.2.4 for PHP 5.5.7 VC11 64 Bit.
 
-I suppose should be compatible with nearest minor version, PHP 5.5.3 - 5.5.7
+**I suppose should be compatible with the closest minor version, PHP 5.5.3 - 5.5.7**
 
-I build the extension for Thread Safe and Not Thread Safe PHP Environment.
+I build the extension for Thread Safe and Non Thread Safe PHP Environment.
 
 I tested the extension on: 
 - Windows 8.1
