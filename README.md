@@ -1,4 +1,4 @@
-Phalcon Windows X64 VC11 Dll
+Phalcon Windows X64 VC11 DLL
 ====================
 
 Php Windows binary extension for Phalcon 1.2.4 for PHP 5.5 VC11 64 Bit.
