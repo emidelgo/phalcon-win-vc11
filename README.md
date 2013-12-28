@@ -1,7 +1,9 @@
 Phalcon Windows X64 VC11 DLL
 ====================
 
-Php Windows binary extension for Phalcon 1.2.4 for PHP 5.5 VC11 64 Bit.
+Php Windows binary extension for Phalcon 1.2.4 for PHP 5.5.7 VC11 64 Bit.
+
+I suppose should be compatible with nearest minor version, PHP 5.5.3 - 5.5.7
 
 I build the extension for Thread Safe and Not Thread Safe PHP Environment.
 
@@ -12,9 +14,9 @@ I tested the extension on:
 
 Installation 
 ======
-1. Download the nts or the ts package (depending from you PHP Environment). 
-2. Extract zip package.
-3. Copy the php_phalcon.dll in your extension dir.
+1. Download Repository Zip Package ( https://github.com/DragonE/phalcon-win-vc11/archive/master.zip ) 
+2. Choose the ts (Thread Safe) or nts (Non Thread Safe) Zip Package (Depends from your downloaded PHP Environment) and extract it. 
+3. Copy the extracted php_phalcon.dll in your php extension dir.
 4. Add "extension=php_phalcon.dll" to your php.ini (without quotes).
 5. Restart Php service (if already executing in FastCgi o IIS)
 
@@ -29,6 +31,6 @@ Source Code
 ======
 You can download the source code from the official phalcon repository: https://github.com/phalcon/cphalcon
 
-32bit ( X86 ) Edition
+32bit Edition (X86)
 ======
 If you are looking for X86 PHP 5.5 (32bit) extension version, you can look this repository: https://github.com/andont/phalcon-win
