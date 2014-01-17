@@ -1,6 +1,11 @@
 Phalcon Windows X64 VC11 DLL
 ====================
 
+Phalcon VC11 DLL are now available directly on the [Official Phalcon Download Repository](http://phalconphp.com/en/download/windows and)
+In the official repository is available the latest release, Phalcon 1.2.5.
+
+Phalcon Windows X64 VC11 DLL
+====================
 Php Windows binary extension for Phalcon 1.2.4 for PHP 5.5.7 VC11 64 Bit.
 
 **I suppose should be compatible with the closest minor versions, PHP 5.5.3 - 5.5.7**
