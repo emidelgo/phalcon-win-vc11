@@ -1,7 +1,8 @@
-Phalcon Windows X64 VC11 DLL
+Phalcon Windows X64 VC11 DLL now available in the official repository
 ====================
 
-Phalcon VC11 DLL are now available directly on the [Official Phalcon Download Repository](http://phalconphp.com/en/download/windows and)
+Phalcon VC11 DLL are now available directly on the [Official Phalcon Download Repository](http://phalconphp.com/en/download/windows and).
+
 In the official repository is available the latest release, Phalcon 1.2.5.
 
 Phalcon Windows X64 VC11 DLL
